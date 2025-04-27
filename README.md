@@ -1,1 +1,1 @@
-# fastfetch.jsonc
+i just need to save this.
